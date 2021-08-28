@@ -17,7 +17,7 @@ Twitter is a popular platform for information dissemination and receives nearly 
 | --- | --- |
 | [datasets](https://git.generalassemb.ly/yeccaluh/project_5/tree/master/datasets) | Data folder; [Jul/Aug](https://git.generalassemb.ly/yeccaluh/project_5/tree/master/datasets/tweets_78), [Sept/Oct](https://git.generalassemb.ly/yeccaluh/project_5/tree/master/datasets/tweets_910), [Nov/Dec](https://git.generalassemb.ly/yeccaluh/project_5/tree/master/datasets/tweets_1112), [cleaned and labeled](https://git.generalassemb.ly/yeccaluh/project_5/blob/master/datasets/finaldata_label.csv) |
 | [Data Collection and Cleaning](https://git.generalassemb.ly/yeccaluh/project_5/blob/master/collection_cleaning.ipynb) | Collecting and cleaning data, feature engineering, prepping dataset for use |
-| [Preprocessing, EDA, Modeling](link) | EDA and visualizations to understand feature relationships, modeling to answer problem statement |
+| [Preprocessing, EDA, Modeling](https://git.generalassemb.ly/yeccaluh/project_5/blob/master/processing_modeling_1.ipynb) | EDA and visualizations to understand feature relationships, modeling to answer problem statement |
 | [More Processing, EDA, Modeling](https://git.generalassemb.ly/yeccaluh/project_5/blob/master/processing_modeling_2.ipynb) | More of the above, different models |
 | [Scraping Script](https://git.generalassemb.ly/yeccaluh/project_5/blob/master/scraper_script.py) | Python script to scrape tweets using snscrape and save as a .csv file |
 | [Presentation visuals](https://git.generalassemb.ly/yeccaluh/project_5/blob/master/project_presentation.pdf) | PDF of presentation slides |
